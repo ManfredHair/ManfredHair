@@ -17,6 +17,7 @@
 - **Interface Usina Nuclear:** https://manfredhair.github.io/nuclear-power-plant-interface/
 - **GPS tipo Waze:** https://manfredhair.github.io/neyze/
 - **Simulated Annealing Visual:** https://manfredhair.github.io/ney-montanha/
+- **Jogo Pong com Baiacu:** https://manfredhair.github.io/puffer-pong/
 
 ---------
 
