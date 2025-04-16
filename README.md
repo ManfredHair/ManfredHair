@@ -9,6 +9,15 @@
 
 ---------
 
+<h2 align="center">ManfredHair Games</h2>     
+<h3 align="center">https://manfredhair.github.io/games/</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3da9fffc-a45c-49b8-a014-af909ede5448" alt="manfredgames" width="200"/>
+</p>
+
+
+-------------
+
 <h2 align="left">Websites OFICIAIS do ManfredHair</h2>     
 
 - **Jogo de Digitar:** https://manfredhair.github.io/crazy-ass-typing-game/
