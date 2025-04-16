@@ -18,11 +18,13 @@
 - **GPS tipo Waze:** https://manfredhair.github.io/neyze/
 - **Simulated Annealing Visual:** https://manfredhair.github.io/ney-montanha/
 - **Jogo Pong com Baiacu:** https://manfredhair.github.io/puffer-pong/
+- **Jogo da Torradeira Voadora:** https://manfredhair.github.io/toaster-launch/
 
 ---------
 
 <h2 align="left">Websites com parceria OFICIAL do ManfredHair</h2>
 
+- **SpiceCodeCLI: Análisador de Qualidade de Código _(SpiceCodeCLI)_:** https://spicecodecli.github.io/
 - **Problema da Mochila Knapsack _(Sortphy)_:** https://sortphy.github.io/knapsack/
 - **Busca em Texto _(Sortphy)_:** https://sortphy.github.io/dune-search/
 - **Calculadora de Datas _(BugBuddies2)_:** https://bugbuddies2.github.io/calculadora-datas/
