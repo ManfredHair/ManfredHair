@@ -17,6 +17,7 @@
 - **Simulated Annealing Visual:** https://manfredhair.github.io/ney-montanha/
 - **Jogo Pong com Baiacu:** https://manfredhair.github.io/puffer-pong/
 - **Jogo da Torradeira Voadora:** https://manfredhair.github.io/toaster-launch/
+- **Jogo do Carangueijo (bem legal):** https://manfredhair.github.io/crab-dash/
 
 ---------
 
