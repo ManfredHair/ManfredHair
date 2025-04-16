@@ -20,6 +20,7 @@
 
 <h2 align="left">Websites OFICIAIS do ManfredHair</h2>     
 
+- **ManfredHair Games:** https://manfredhair.github.io/games/
 - **Jogo de Digitar:** https://manfredhair.github.io/crazy-ass-typing-game/
 - **Interface Usina Nuclear:** https://manfredhair.github.io/nuclear-power-plant-interface/
 - **GPS tipo Waze:** https://manfredhair.github.io/neyze/
