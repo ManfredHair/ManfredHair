@@ -38,3 +38,4 @@
 - **Problema da Mochila Knapsack _(Sortphy)_:** https://sortphy.github.io/knapsack/
 - **Busca em Texto _(Sortphy)_:** https://sortphy.github.io/dune-search/
 - **Calculadora de Datas _(BugBuddies2)_:** https://bugbuddies2.github.io/calculadora-datas/
+- **Noiteiro Viajanta _(Claudinei)_:** https://sortphy.github.io/noiteiroviajante/
