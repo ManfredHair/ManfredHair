@@ -29,6 +29,7 @@
 - **Jogo da Torradeira Voadora:** https://manfredhair.github.io/toaster-launch/
 - **Jogo do Carangueijo (bem legal):** https://manfredhair.github.io/crab-dash/
 - **Jogo do Ninja da Parede:** https://manfredhair.github.io/wall-ninja/
+- **Simulador de Horda de Zumbi Interativa:** https://manfredhair.github.io/walker-swarm/
 
 ---------
 
