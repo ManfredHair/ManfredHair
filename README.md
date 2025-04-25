@@ -41,3 +41,4 @@
 - **Calculadora de Datas _(BugBuddies2)_:** https://bugbuddies2.github.io/calculadora-datas/
 - **Paródia Noiteiro Viajante _(Sortphy)_:** https://sortphy.github.io/noiteiroviajante/
 - **Caixeiro Viajante Interativo _(Sortphy)_:** https://sortphy.github.io/caixeiro/
+- **Calculadora Preço Open Bar _(Sortphy)_:** https://sortphy.github.io/calculadora-openbar/
