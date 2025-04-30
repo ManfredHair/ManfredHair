@@ -30,6 +30,7 @@
 - **Jogo do Carangueijo (bem legal):** https://manfredhair.github.io/crab-dash/
 - **Jogo do Ninja da Parede:** https://manfredhair.github.io/wall-ninja/
 - **Simulador de Horda de Zumbi Interativa:** https://manfredhair.github.io/walker-swarm/
+- **Jogo de Colorir o Manfred Hair (muito top as imagens):** https://manfredhair.github.io/coloring-game/
 
 ---------
 
